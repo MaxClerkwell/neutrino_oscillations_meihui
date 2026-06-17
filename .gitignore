@@ -1,0 +1,69 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdv
+
+# Latexmk
+*.dvi
+*.pdf
+
+# Bibliography
+*-blx.bib
+
+# Glossaries
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.ist
+
+# Nomenclature
+*.nlo
+*.nls
+
+# Minted
+_minted*
+*.pyg
+
+# TikZ externalization
+*-figure*.pdf
+
+# Temporary files
+*.bak
+*.tmp
+*.swp
+*~
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# TeXShop
+*.pdfsync
+
+# TeXworks
+*.synctex
+
+# Texpad
+.texpadtmp
+
+# IntelliJ / JetBrains
+.idea/
