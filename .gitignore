@@ -67,3 +67,6 @@ _minted*
 
 # IntelliJ / JetBrains
 .idea/
+
+# Build output
+build/
